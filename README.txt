@@ -8,12 +8,6 @@ Course Project
 Landmark Recogntion
 --------------------------------------------
 
-Authors:
---------
-Nandhini S	-	2017103559
-Agalya P	-	2017103505
-
---------------------------------------------
 
 Folders/Files Provided:
 -----------------------
@@ -60,9 +54,6 @@ The project proceeds in the following manner working through different codes and
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-
-Results:
---------
 
 Github Repository : https://github.com/adityasurana/Google-Landmark-Recognition-Challenge
 
